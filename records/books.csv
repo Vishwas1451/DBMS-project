@@ -1,0 +1,31 @@
+ISBN,price,category,status,title,admin_id,publisher_id
+b222,289,novel,yes,robinson crusoe,4545,1000
+b986,543,fiction,no,revolution 2020,3434,2000
+b152,1000,novel,yes,The lord of the rings,2323,3000
+b565,1546,academics,no,artificial intelligence,5656,4000
+b826,222,fiction,no,harry potter and the chamber of secrets,4545,1000
+b777,454,novel,yes,wuthering heights,6767,2000
+b428,756,fiction,no,goosebumps,5656,3000
+b452,476,fiction,yes,The secret of nagas,2323,4000
+b908,1800,academics,no,machine learning,8989,1000
+b007,1390,kids,yes,the famous five,7878,2000
+b545,1234,novel,no,the great gatsby,6767,3000
+b998,2132,kids,yes,the adventures of tintin,8989,4000
+b324,3432,academics,no,computer network security,2323,1000
+b767,1555,academics,yes,computer and internet security,9090,2000
+b037,1232,kids,yes,charlie and the chocolate factory,4545,3000
+b374,223,fiction,yes,percy jackson: the lightning theif,1212,4000
+b231,333,academics,yes,fundamentals of database systems,2323,1000
+b232,599,novel,yes,percy jackson and the sea of monsters,1313,2000
+b999,1090,novel,yes,the 3 mistakes of my life,1212,3000
+b760,1233,academics,yes,intoduction to modern cryptography,7878,4000
+b209,1500,kids,yes,the bfg,1313,1000
+b155,1800,kids,yes,matilda,5656,2000
+b521,999,academics,yes,the design of everyday things,4433,3000
+b774,243,academics,yes,concepts of programming languages,2323,4000
+b436,1543,novel,yes,ram:scion of ikshvaku,1212,1000
+b769,2222,novel,yes,sita:warrior of mithila,2323,2000
+b234,1099,novel,yes,raavan:the enemy of aryavarta,1212,3000
+b667,1444,novel,yes,the immortals of meluha,4433,4000
+b133,789,kids,yes,james and the giant peach,9090,1000
+b723,899,novel,yes,the oath of vayuputras,7878,2000

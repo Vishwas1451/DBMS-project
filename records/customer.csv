@@ -1,0 +1,20 @@
+customer_id,f_name,l_name,street,city,pin,reg_date,manager_id
+11111,vishwas,m,2,udupi,182432,12-10-2022,1
+22222,raghav,loknath,6,salem,543234,03-10-2022,3
+33333,vishnudeep,mysore,45,mysore,567543,14-10-2022,5
+44444,sai,rethwik,7,marathalli,248554,05-10-2022,4
+55555,vishwa,mehta,1,haralur,268543,08-10-2022,3
+66666,vinti,agrawal,34,bangalore,275325,12-10-2022,2
+77777,vishal,elangovan,67,chennai,873456,18-10-2022,2
+88888,tushar,bhat,98,mangalore,813456,11-10-2022,4
+99999,sahith,reddy,11,nandial,659766,11-10-2022,3
+12345,vismaya,r,45,mysore,143678,01-10-2022,1
+67890,srushti,s,85,bangalore,629078,02-10-2022,4
+13234,tushar,bothra,44,mumbai,369061,23-10-2022,5
+15432,tenzin,tsephel,65,hubli,909090,24-10-2022,3
+65432,bavanika,v,19,bangalore,825378,25-10-2022,4
+87456,shuvam,bose,73,begur,456234,26-10-2022,2
+46384,vidip,chabhra,28,jaipur,821432,27-10-2022,5
+56453,mike,ross,41,new york,152434,28-10-2022,4
+18273,sheldon,cooper,46,texas,756735,29-10-2022,3
+56434,jennifer,aniston,12,los angeles,936545,30-10-2022,2
